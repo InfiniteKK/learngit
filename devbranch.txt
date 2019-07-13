@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Test.
-=======
-This is a branch test.
 K changed this text.
->>>>>>> 6e44bf2a54add851b3e732109e72d18b95d165f6
